@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "roya3000.github.io/JAMstack-hugo/"
+baseURL = "https://roya3000.github.io/JAMstack-hugo/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
